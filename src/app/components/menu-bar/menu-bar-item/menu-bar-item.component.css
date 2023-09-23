@@ -1,11 +1,9 @@
 .menu-bar__item {
-    display: flex;
     margin-right: 30px;
     align-items: center;
 }
 
 .menu-bar__item > ul {
-	padding: 20px 0;
 	width: 100%;
 	display: -webkit-box;
 	display: -ms-flexbox;
