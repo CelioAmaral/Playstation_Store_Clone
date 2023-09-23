@@ -16,10 +16,9 @@
 
 .menu-bar__item > ul > li > a {
     padding: 5px;
-	color: white;
-	font-weight: bold;
-	border-radius: 30px;
-    font-family: 'Segoe UI';
+		color: white;
+		font-weight: bold;
+		border-radius: 30px;
 }
 
 .menu-bar__item > ul > li > a:hover {
