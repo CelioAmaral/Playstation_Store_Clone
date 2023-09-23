@@ -5,8 +5,16 @@
 }
 
 .menu-bar__item > ul {
-    display: flex;
-    list-style-type: none;
+	padding: 20px 0;
+	width: 100%;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	list-style: none;
 }
 
 .menu-bar__item > ul > li {
