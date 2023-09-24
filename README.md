@@ -18,7 +18,7 @@ This project was developed with the following technologies:
 
 ## ✅ Deploy
 
-- [GitHub Page Project Only]()
+- [Vercel Project](https://play-station-store-clone-celioamaral.vercel.app/)
 
 ## 🚀 How to run
 
@@ -41,3 +41,17 @@ This project was developed with the following technologies:
 - Further help
 
   To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+![img1](https://github.com/CelioAmaral/Playstation_Store_Clone/blob/main/src/assets/certificate_ps.png)
+
+## 👨🏽‍💻 Author:
+
+<img src="https://avatars.githubusercontent.com/u/85323953?v=4" width="100px;" alt="foto do desenvolvedor"/>
+
+- [@CelioAmaral](https://github.com/CelioAmaral)
+
+<sup>Systems Analyst</sup>
+</br>
+<div>
+  <a href="https://www.linkedin.com/in/celioamaral20" target="_blank"><img align="center" alt="Celio-Link" height="30" width="90" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
